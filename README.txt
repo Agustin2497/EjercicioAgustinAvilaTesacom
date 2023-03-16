@@ -3,6 +3,7 @@ En el código de play.py se utiliza una librería creada por Agustín Ávila Qui
 TENER CUENTA:
 
 Es importante tener en cuenta que, en esta versión, la deserialización no funciona correctamente para datos que no tienen tamaños de 8, 16 o 32 bits completos. Esto se resolverá en futuras versiones, ya que la actual puede presentar errores en tamaños entre 8 y 16 bits o entre 16 y 32 bits.
+En el archivo "play.py" se tiene la opción de abrir un archivo JSON o cualquier otro archivo que contenga los datos necesarios. Esto es algo que se podría considerar para una versión no beta.
 
 *Datos y formatos desarrollados:
 
